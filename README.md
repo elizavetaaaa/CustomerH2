@@ -1,9 +1,11 @@
 # CustomerH2
 
 Error that is generating after adding a customer
-![error page](https://i.imgur.com/k8N74IT.png);
-and in case i make id manually this one:
 ![error page](https://i.imgur.com/71sNeYT.png);
+
+and in case i make id manually this one:
+
+![error page](https://i.imgur.com/k8N74IT.png);
 
 other parts work well:
 ![login](https://i.imgur.com/LqxvKX7.png);
